@@ -52,7 +52,7 @@ export default function LandingPage() {
             { text: "Visit Us", href: "contact" },
             { text: "See Menu", href: "menu" },
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1764586024764-soc5mlgo.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1764590695684-hixypwzq.jpg"
           imageAlt="Fresh coffee brewing"
         />
       </div>
